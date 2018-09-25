@@ -3,7 +3,8 @@ html {
 }
 
 .masthead {
-
+ background-image: url("../prod/leaf-bg.svg");
+ background-color: #588477;
 }
 
 .logo {
@@ -23,7 +24,7 @@ html {
 }
 
 .banner {
-
+ background-image: url("../prod/leaf-icon.svg");
 }
 
 .banner-content {
