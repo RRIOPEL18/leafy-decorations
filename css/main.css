@@ -8,6 +8,8 @@ html {
   background-image: url("../images/leaf-bg.svg");
   background-color: #588477;
   background-size: 64px;
+  border-top: solid 3px #2b5a4d;
+  border-bottom: solid 3px #2b5a4d;
 }
 
 .logo {
@@ -44,7 +46,7 @@ html {
 
 .banner-content {
   color: #fff;
-  background: linear-gradient(rgba(16, 52, 41, .8), rgba(16, 52, 41, 0));
+  background: linear-gradient(rgba(16, 52, 41, 0), rgba(16, 52, 41, .8));
 }
 
 @media only screen and (min-width: 60em) {
